@@ -7,6 +7,7 @@ from textblob import TextBlob
 import sys
 
 print "\nNEWS NOT NOISE!\n"
+print "\nHello from Eonfathom.\n"
 print '\nNumber of arguments:', len(sys.argv[1:]), 'arguments.'
 print 'Argument List:', str(sys.argv[1:])
 
